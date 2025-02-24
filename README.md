@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/MsadafK.MsadafK.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msadafk&label=Profile%20views&color=0e75b6&style=flat" alt="msadafk" /> </p>
