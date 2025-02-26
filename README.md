@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <div style="background:#000000;">
+<img src="https://miro.medium.com/v2/resize:fit:1024/0*ALNL96YFdGdzWZVm.png"  />
+    
+  </div>
+</div> <br />
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Mohd+Sadaf..;Frontend+Developer..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+!&center=true"></a></p>
