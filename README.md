@@ -69,8 +69,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MsadafK&theme=radical&hide_border=false)
 
 <br/>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MsadafK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=MSadafK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
 ```text
