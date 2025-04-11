@@ -4,7 +4,7 @@
 </p>
 
 <!-- Animated typing intro -->
-<p align="right">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=E22FE4&width=435&lines=Hey%F0%9F%91%8B+I'm+Mohd+Sadaf;Frontend+Developer+%F0%9F%92%BB;Learning+in+Public+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%91%9D;Welcome+to+my+GitHub+!">
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-<p >
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,git,postman,firebase,python" />
 </p>
 
