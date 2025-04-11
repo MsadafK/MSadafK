@@ -12,10 +12,21 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate about building modern & responsive UIs
-- 🌱 Currently diving deeper into **React** and **Frontend best practices**
-- 📬 Reach me at: **msadafk@gmail.com**
-- ✨ Learning in public. Sharing my journey & projects with the community.
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎯 Passionate about building modern & responsive UIs</li>
+        <li>🌱 Currently diving deeper into <strong>React</strong> and frontend best practices</li>
+        <li>📬 Reach me at: <strong>msadafk@gmail.com</strong></li>
+        <li>✨ Learning in public. Sharing my journey & projects with the community</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/730703/screenshots/4051526/media/c2476e0a4b8d167db5f43ebaf7c6b00d.gif" width="270" alt="Hacker gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
