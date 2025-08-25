@@ -14,7 +14,7 @@
 
 - 🎯 Passionate about building modern & responsive UIs
 - 🌱 Currently diving deeper into **React** and **Frontend best practices**
-- 📬 Reach me at: **msadafk@gmail.com**
+- 📬 Reach me at: **mssadaf0@gmail.com**
 - ✨ Learning in public. Sharing my journey & projects with the community.
 
 ---
