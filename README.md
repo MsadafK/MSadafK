@@ -5,7 +5,7 @@
 
 <!-- Animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=E22FE4&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Mohd+Sadaf;Frontend+Developer+%F0%9F%92%BB;Learning+in+Public+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%A4%9D;Welcome+to+my+GitHub+!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E22FE4&width=435&lines=Hey+👋+I'm+Mohd+Sadaf;Frontend+Developer+💻;Learning+in+Public+📚;Open+Source+Enthusiast+🤝;Welcome+to+my+GitHub+!" alt="Typing SVG">
 </p>
 
 ---
@@ -30,19 +30,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MsadafK&theme=radical&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsadafK&theme=radical&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MsadafK&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MsadafK&layout=compact&theme=radical&hide_border=true&langs_count=8)
-  
-  <br>
+  <br><br>
   
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
   
   <br><br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MsadafK&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MsadafK&theme=radical&hide_border=true" width="96%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -50,9 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=MsadafK&theme=radical&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=MsadafK&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
