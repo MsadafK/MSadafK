@@ -30,8 +30,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MsadafK&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsadafK&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MsadafK&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MsadafK&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
   
   <br><br>
   
@@ -39,7 +39,7 @@
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MsadafK&theme=radical&hide_border=true" width="96%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MsadafK&theme=radical&hide_border=true" width="96%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MsadafK&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=MsadafK&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
