@@ -30,8 +30,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MsadafK&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsadafK&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-dusky-one-70.vercel.app/api?username=MsadafK&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-dusky-one-70.vercel.app/api/top-langs/?username=MsadafK&theme=radical&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
   
   <br><br>
   
@@ -39,7 +39,8 @@
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MsadafK&theme=radical&hide_border=true" width="96%" alt="GitHub Streak" />
+  <!-- IMPORTANT: deploy streak stats on your vercel later for 100% stability -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MsadafK&theme=radical&hide_border=true&cache_seconds=1800" width="96%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -57,20 +58,3 @@
 <!--START_SECTION:waka-->
 ```text
 Python   3 hrs 58 mins   █████████████████████████   100.00%
-```
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  
-### 💬 Let's Connect!
-
-[![Email](https://img.shields.io/badge/Email-mssadaf0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mssadaf0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MsadafK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsadafK)
-
-<br>
-
-**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
-
-</div>
