@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🎯 Passionate about building modern & responsive UIs
-- 🌱 Currently diving deeper into **React** and **Frontend best practices**
+- 🌱 Currently diving deeper into **Next.js** and **Frontend best practices**
 - 📬 Reach me at: **mssadaf0@gmail.com**
 - ✨ Learning in public. Sharing my journey & projects with the community.
 
