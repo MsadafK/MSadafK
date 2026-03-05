@@ -40,7 +40,7 @@
   <br><br>
   
   <!-- IMPORTANT: deploy streak stats on your vercel later for 100% stability -->
-  <img src="https://streak-stats.demolab.com/?user=MsadafK&theme=radical&hide_border=true&cache_seconds=1800"%20width="96%"%20alt="GitHub%20Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MsadafK&theme=radical&hide_border=true&cache_seconds=1800"%20width="96%"%20alt="GitHub%20Streak />
 </div>
 
 ---
