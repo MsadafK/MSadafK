@@ -40,7 +40,7 @@
   <br><br>
   
   <!-- IMPORTANT: deploy streak stats on your vercel later for 100% stability -->
-  <img src="https://github-readme-streak-stats-three-vert.vercel.app/?user=MsadafK&theme=radical&hide_border=true&cache_seconds=1800" width="96%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-three-vert.vercel.app/api?user=MsadafK&theme=radical&hide_border=true&cache_seconds=1800" width="96%" alt="GitHub Streak"/>
 </div>
 
 ---
