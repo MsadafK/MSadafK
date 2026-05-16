@@ -30,8 +30,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-dusky-one-70.vercel.app/api?username=MsadafK&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-dusky-one-70.vercel.app/api/top-langs/?username=MsadafK&theme=radical&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-nu-89.vercel.app/api?username=MsadafK&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-nu-89.vercel.app/api/top-langs/?username=MsadafK&theme=radical&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
   
   <br><br>
   
@@ -40,7 +40,7 @@
   <br><br>
   
   <!-- IMPORTANT: deploy streak stats on your vercel later for 100% stability -->
-  <img src="https://streak-stats.demolab.com/?user=MsadafK&theme=radical&hide_border=true&cache_seconds=1800" width="96%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-three-vert.vercel.app/?user=MsadafK&theme=radical&hide_border=true&cache_seconds=1800" width="96%" alt="GitHub Streak"/>
 </div>
 
 ---
