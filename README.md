@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## ⭐ About Me
 
 * 🚀 Passionate about building fast, accessible & scalable web applications.
 * ⚡ Focused on clean architecture, web performance and great user experience.
