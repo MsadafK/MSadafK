@@ -12,10 +12,11 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate about building modern & responsive UIs
-- 🌱 Currently diving deeper into **Next.js** and **Frontend best practices**
-- 📬 Reach me at: **mssadaf0@gmail.com**
-- ✨ Learning in public. Sharing my journey & projects with the community.
+* 💻 Frontend Developer focused on building fast, accessible & scalable web applications.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="React" /> <strong>React.js</strong> • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="18" alt="Next.js" /> <strong>Next.js</strong> • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="TypeScript" /> <strong>TypeScript</strong> • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="Tailwind CSS" /> <strong>Tailwind CSS</strong>
+* 🚀 Passionate about web performance, clean UI and great user experience.
+* 🌱 Currently sharpening my skills in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="18" alt="Jest" /> <strong>Jest</strong> & <img src="https://testing-library.com/img/octopus-64x64.png" height="18" alt="React Testing Library" /> <strong>React Testing Library</strong>.
+* 📬 Reach me at: **[mssadaf0@gmail.com](mailto:mssadaf0@gmail.com)**
 
 ---
 
